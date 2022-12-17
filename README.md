@@ -11,6 +11,6 @@ download the `MathSelect.ahk` script and run it
 
 ## How to use?
 ```
-[alt+u] -> Convert the selected number to it's sqaure root
-[alt+j] -> Convert the selected number to it's sqaure number
+[alt+u] -> Converts the selected number to it's sqaure root
+[alt+j] -> Converts the selected number to it's sqaure number
 [alt+m] -> Rounds the selected number
