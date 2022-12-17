@@ -41,7 +41,7 @@ The shortcuts below do the following steps:
 */
 
 
-;[alt+u] -> Convert the selected number to it's sqaure root
+;[alt+u] -> Converts the selected number to it's sqaure root
 !u:: 
   oldClipboard := ClipboardAll
   Send, ^c
@@ -51,7 +51,7 @@ The shortcuts below do the following steps:
   Clipboard := oldClipboard
 return
 
-;[alt+j] -> Convert the selected number to it's sqaure number
+;[alt+j] -> Converts the selected number to it's sqaure number
 !j:: 
   oldClipboard := ClipboardAll
   Send, ^c
